@@ -1,5 +1,4 @@
 # js-rocket
 Launch a Rocket with JavaScript 
 
-This is a class that I am following along to by Rich Armstrong on Skillshare that is teaching Javascript.
-You can jump in and follwo along at https://skl.sh/2O40wOC
+This is a Javascript project that I am building following along to Rich Armstrong's class on Skillshare. You can jump in and follow along at https://skl.sh/2O40wOC
