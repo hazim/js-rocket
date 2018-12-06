@@ -9,5 +9,3 @@ var car  = {
 				this.isTurnedOn = true;
 			}
 		};
-
-		console.log('hello there friends!');
